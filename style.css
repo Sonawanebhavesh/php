@@ -1,0 +1,41 @@
+#maincontent
+{
+    background-image:url("image/bgimg.jpg");
+    background-size:cover;
+    background-color:lightsalmon;
+    padding:5px;
+    height:315px;
+    border-radius:20px;
+    padding-top: 20px;
+}
+#content
+{
+   float:right;
+   text-align:center;
+   color:black;
+   padding:10px;
+   background-color:bisque;
+   border-radius:20px;
+   width:200px;
+   margin-right:20px;
+   margin-top:10px;
+}
+.op
+{
+    
+    text-decoration:none;
+    background-color:bisque;
+    color:#a52a2a;
+    padding:10px;
+    
+    margin-left:30px;
+    border-radius: 10px;
+
+}
+input
+{
+ padding:10px;
+ border-radius:10px;
+ margin-bottom:5px;
+ 
+ }
